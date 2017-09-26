@@ -3,7 +3,7 @@ do form! for REDAXO YForm
 
 Geplant: 
 
-- Einfache E-Mail-Formulare mittels MBLOCK und YForm erstellen. (Für Redakteuere geeignet)
+- Einfache E-Mail-Formulare mittels MBLOCK und YForm erstellen. (Für Redakteure geeignet)
 - Validierungen aus do form! Zur Verfügung stellen. 
 
 Ziele sind nicht: 
